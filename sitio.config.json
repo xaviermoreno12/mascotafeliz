@@ -1,0 +1,60 @@
+{
+  "sitio": {
+    "nombre": "MascotaFeliz",
+    "tagline": "Todo para que tu perro y tu gato vivan felices",
+    "dominio": "https://xaviermoreno12.github.io",
+    "base": "/mascotafeliz",
+    "nicho": "cuidado y ropa para perros y gatos",
+    "idioma": "es",
+    "pais": "AR",
+    "descripcion": "Guías con onda para cuidar, vestir y consentir a tu perro y a tu gato: ropa a medida, cuidados en casa y todo para que vivan sanos y felices.",
+    "autor": "Equipo MascotaFeliz",
+    "ga_id": "",
+    "gsc_verification": ""
+  },
+  "marca": {
+    "color_primario": "#ea580c",
+    "color_secundario": "#2b211a",
+    "color_acento": "#0d9488",
+    "fondo": "#ffffff",
+    "fuente_titulos": "Baloo 2",
+    "fuente_texto": "Nunito Sans"
+  },
+  "productos": [
+    {
+      "id": "costura-mascotas",
+      "codigo": "E75016771N",
+      "nombre": "Costura Canina y Felina",
+      "precio": "Ver precio",
+      "moneda": "USD",
+      "hotlink": "https://go.hotmart.com/E75016771N?ap=cb87",
+      "categoria": "Mascotas",
+      "rating": 4.7,
+      "descripcion_corta": "MasterClass para confeccionar ropa y accesorios para perros y gatos: prendas para cada clima con patronaje simple, aunque nunca hayas tocado una máquina de coser.",
+      "beneficios": [
+        "Prendas ligeras y abrigadas según el clima",
+        "Manejo de telas, moldes y máquina de coser",
+        "Patronaje paso a paso + certificado descargable"
+      ],
+      "para_quien": "Amantes de las mascotas que quieren vestir a sus animales, o emprender vendiendo ropa para mascotas.",
+      "destacado": true
+    },
+    {
+      "id": "salud-perro",
+      "codigo": "Y75019835V",
+      "nombre": "Cómo Cuidar la Salud de tu Perro",
+      "precio": "Ver precio",
+      "moneda": "USD",
+      "hotlink": "https://go.hotmart.com/Y75019835V",
+      "categoria": "Mascotas",
+      "rating": 4.6,
+      "descripcion_corta": "Guía completa sobre alimentación, cuidados y entrenamiento de tu perro, para que viva sano, feliz y muchos años a tu lado.",
+      "beneficios": [
+        "Alimentación adecuada para cada etapa",
+        "Cuidados y prevención en casa",
+        "Entrenamiento y socialización"
+      ],
+      "para_quien": "Dueños de perros que quieren mejorar la salud y el bienestar de su mascota."
+    }
+  ]
+}
