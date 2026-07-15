@@ -8,9 +8,14 @@
     "idioma": "es",
     "pais": "AR",
     "descripcion": "Guías con onda para cuidar, vestir y consentir a tu perro y a tu gato: ropa a medida, cuidados en casa y todo para que vivan sanos y felices.",
-    "autor": "Equipo MascotaFeliz",
+    "autor": {
+      "nombre": "Lucía Bianchi",
+      "rol": "Cuidadora de perros y gatos",
+      "bio": "Convivo con mascotas desde siempre y me apasiona su bienestar. Comparto cuidados prácticos para que tu perro y tu gato vivan mejor."
+    },
     "ga_id": "",
-    "gsc_verification": ""
+    "gsc_verification": "",
+    "email": "hola@mascotafeliz.com"
   },
   "marca": {
     "color_primario": "#ea580c",
