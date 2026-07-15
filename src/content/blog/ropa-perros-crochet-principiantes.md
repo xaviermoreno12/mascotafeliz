@@ -25,6 +25,8 @@ faqs:
 draft: false
 ---
 
+La ropa para perros a crochet es una actividad creativa y entretenida que permite confeccionar prendas personalizadas. Para empezar, necesitás hilo de algodón o acrílico de grosor mediano, una aguja de crochet adecuada, tijeras, cinta métrica y, opcionalmente, marcadores de puntos. Medí a tu perro para hacerle un abrigo que lo mantenga calientito.
+
 # Ropa para perros a crochet para principiantes: ¡Confeccioná con amor!
 
 ¿Alguna vez se te ocurrió que tu perro podría ser el modelo más fashion de la cuadra? ¡Y no, no estoy hablando de esos trajes que parecen más un disfraz de Halloween! Me refiero a ropa para perros a crochet para principiantes, una forma creativa y divertida de mantener a tu peludo calientito y a la moda. 

@@ -27,6 +27,8 @@ faqs:
 draft: false
 ---
 
+Cuidar a un perro cachorro requiere una alimentación adecuada, que incluya un alimento de calidad específico para cachorros, y raciones ajustadas según el veterinario. Además, es crucial socializarlo exponiéndolo a diferentes ambientes y entrenarlo para evitar problemas de comportamiento, asegurando así un vínculo fuerte desde sus primeras semanas.
+
 # Cómo cuidar un perro cachorro: Tips infalibles
 
 ¡Hola, amante de los perros! Si estás leyendo esto, es porque te ha picado el bichito de la paternidad/maternidad perruna. Y, seamos honestos, cuidar a un perro cachorro es como lidiar con una mezcla entre un tornado de energía y un peluche adorable que necesita tu atención constante. Pero no te preocupes, aquí te voy a dar algunos tips que te harán la vida más fácil y a tu cachorro más feliz.

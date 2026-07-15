@@ -27,6 +27,8 @@ faqs:
 draft: false
 ---
 
+La ropa abrigada para perros en invierno, como abrigos, suéteres y overoles, es crucial para proteger a tu mascota del frío. Los perros pequeños, de pelaje corto o mayores son más vulnerables a las bajas temperaturas, por lo que es importante mantenerlos cómodos y calentitos.
+
 # Ropa abrigada para perros en invierno: ¡tu peludo al calor!
 
 ¿Te ha pasado que tu perro te mira con esa carita de “hace frío, ¿no?” mientras vos estás en la cama como si nada? ¡Que no se te despegue la idea de que tu amigo de cuatro patas también necesita un abrigo en invierno! En este post, vamos a hablar de la importancia de la ropa abrigada para perros en invierno, y cómo elegir las mejores prendas para que tu peludo esté cómodo, calentito y, por qué no, ¡con estilo!

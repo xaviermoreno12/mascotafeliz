@@ -27,6 +27,8 @@ faqs:
 draft: false
 ---
 
+Para crear ropa para perros sin máquina de coser, necesitás telas como retazos de ropa vieja o sábanas, tijeras, pegamento para tela o cinta adhesiva, y un lápiz o tiza para marcar las medidas. Esta actividad es económica, creativa y te permite personalizar atuendos únicos para tu mascota.
+
 # Crea ropa para perros sin máquina de coser: ¡Es fácil y divertido!
 
 ¿Te imaginaste alguna vez que tu perro podría lucir un atuendo único y personalizado sin tener que lidiar con una máquina de coser? ¡Hoy es tu día de suerte! Te voy a contar cómo confeccionar ropa para perros sin máquina de coser, y te prometo que vas a disfrutarlo tanto como tu peludo al lucir sus nuevos outfits. Porque, seamos sinceros, ¿quién no quiere que su perro se vea más fashion que algunos humanos?

@@ -27,6 +27,8 @@ faqs:
 draft: false
 ---
 
+Para hacer ropa para perros, medí el largo del lomo, el contorno del pecho y el cuello con una cinta métrica. Luego, elegí un patrón sencillo y cortá la tela según las medidas. Necesitás materiales como tela, tijeras y hilo, y podés usar una máquina de coser o coser a mano.
+
 # Cómo hacer ropa para perros paso a paso: ¡Confeccioná prendas únicas!
 
 Si alguna vez te encontraste mirando a tu perro y pensaste: “¡Este peludo se vería increíble con una ropita personalizada!”, estás en el lugar correcto. Hacer ropa para perros puede sonar complicado, pero te prometo que es más fácil que hacer un nudo en el collar. En este artículo, te voy a guiar paso a paso para que puedas convertirte en el modisto canino que siempre soñaste. ¡Y sí, tu perro será la estrella del barrio!
