@@ -9,8 +9,8 @@ cluster:
   - "comida que no debe comer un perro"
   - "alimentos prohibidos para perros"
 productoId: "salud-perro"
-heroImage: ""
-heroAlt: ""
+heroImage: "https://images.pexels.com/photos/32668810/pexels-photo-32668810.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+heroAlt: "A cute chihuahua relaxing on a brick wall in a sunny outdoor setting, displaying a calm demeanor."
 faqs: []
 draft: false
 ---

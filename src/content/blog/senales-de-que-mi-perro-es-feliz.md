@@ -9,8 +9,8 @@ cluster:
   - "comportamientos de perros felices"
   - "señales de bienestar en perros"
 productoId: "salud-perro"
-heroImage: ""
-heroAlt: ""
+heroImage: "https://images.pexels.com/photos/11808661/pexels-photo-11808661.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+heroAlt: "A woman lovingly holds her dog outdoors, basking in the sunlight."
 faqs: []
 draft: false
 ---

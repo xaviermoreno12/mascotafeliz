@@ -9,8 +9,8 @@ cluster:
   - "moda canina a medida"
   - "accesorios para perros hechos a mano"
 productoId: "costura-mascotas"
-heroImage: "https://images.pexels.com/photos/36356352/pexels-photo-36356352.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-heroAlt: "A person sewing a garment by hand, focusing on the intricate stitching work."
+heroImage: "https://images.pexels.com/photos/6461156/pexels-photo-6461156.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+heroAlt: "Close-up of a tailor sewing a button with a needle and thread."
 faqs:
   - q: "¿Puedo hacer ropa para perros sin experiencia en costura?"
     a: "¡Por supuesto! Existen muchos tutoriales y recursos que te pueden ayudar a empezar, incluso si nunca tocaste una máquina de coser."

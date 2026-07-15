@@ -9,8 +9,8 @@ cluster:
   - "consejos para alimentar a un perro"
   - "cómo entrenar a un perro en casa"
 productoId: "salud-perro"
-heroImage: ""
-heroAlt: ""
+heroImage: "https://images.pexels.com/photos/33412092/pexels-photo-33412092.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+heroAlt: "Experience thrilling paragliding over stunning mountain landscapes, perfect for adventure seekers."
 faqs: []
 draft: false
 ---

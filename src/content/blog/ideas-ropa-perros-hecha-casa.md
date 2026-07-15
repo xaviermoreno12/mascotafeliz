@@ -9,8 +9,8 @@ cluster:
   - "prendas para perros personalizadas"
   - "accesorios para perros hechos en casa"
 productoId: "costura-mascotas"
-heroImage: "https://images.pexels.com/photos/36356352/pexels-photo-36356352.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-heroAlt: "A person sewing a garment by hand, focusing on the intricate stitching work."
+heroImage: "https://images.pexels.com/photos/11482124/pexels-photo-11482124.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+heroAlt: "Close-up of adult hands sewing gray fabric thread and needle, showcasing craftsmanship."
 faqs:
   - q: "¿Qué tipo de tela es la mejor para hacer ropa para perros?"
     a: "La mejor tela es aquella que sea cómoda y transpirable. El algodón es una buena opción para climas cálidos, y el forro polar es excelente para el frío."
