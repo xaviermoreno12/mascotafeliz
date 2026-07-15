@@ -2,8 +2,8 @@
   "sitio": {
     "nombre": "MascotaFeliz",
     "tagline": "Todo para que tu perro y tu gato vivan felices",
-    "dominio": "https://xaviermoreno12.github.io",
-    "base": "/mascotafeliz",
+    "dominio": "https://mascotafeliz.vercel.app",
+    "base": "/",
     "nicho": "cuidado y ropa para perros y gatos",
     "idioma": "es",
     "pais": "AR",
