@@ -55,7 +55,7 @@ Los perros necesitan moverse, y no, no vale solo con mirar a través de la venta
 
 ### 4. Cuidado y higiene
 
-Un perro limpio es un perro feliz. Así que no te olvides de cepillarlo regularmente, especialmente si tenés una raza de pelo largo. Y no, no es solo para que luzca bien, sino que también previene enredos y problemas de piel. Si querés aprender más sobre confeccionar ropa para tu mascota, podés ver [Cómo hacer ropa para perros paso a paso: ¡Confeccioná prendas únicas!](/mascotafeliz/blog/como-hacer-ropa-para-perros-paso-a-paso/).
+Un perro limpio es un perro feliz. Así que no te olvides de cepillarlo regularmente, especialmente si tenés una raza de pelo largo. Y no, no es solo para que luzca bien, sino que también previene enredos y problemas de piel. Si querés aprender más sobre confeccionar ropa para tu mascota, podés ver [Cómo hacer ropa para perros paso a paso: ¡Confeccioná prendas únicas!](/blog/como-hacer-ropa-para-perros-paso-a-paso/).
 
 ### 5. Visitas al veterinario
 

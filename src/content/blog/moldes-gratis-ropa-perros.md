@@ -43,7 +43,7 @@ Además, contar con moldes te ahorra tiempo y esfuerzo. No hay nada más frustra
 
 Existen varios lugares donde podés descargar moldes gratuitos. Aquí te dejo algunos recursos que te pueden ser útiles:
 
-1. **Blogs y sitios especializados**: Muchos amantes de las mascotas comparten sus propios diseños. Un ejemplo es [este blog](https://ejemplo.com), donde podés encontrar moldes variados.
+1. **Blogs y sitios especializados**: Muchos amantes de las mascotas comparten sus propios diseños. Un ejemplo es este blog, donde podés encontrar moldes variados.
 2. **Comunidades en redes sociales**: Unirte a grupos de Facebook o Instagram donde se hable de confección de ropa para mascotas puede ser una gran idea. Ahí suelen compartir recursos y consejos.
 3. **YouTube**: En esta plataforma, hay varios tutoriales que no solo te enseñan a hacer ropa sino que también ofrecen moldes. ¡Aprovechá la creatividad de la comunidad!
 
