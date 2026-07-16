@@ -1,7 +1,7 @@
 ---
 title: "Moldes gratis para ropa de perros: ¡Vesti a tu peludo con estilo!"
 description: "Descubrí moldes gratis para ropa de perros y aprendé a confeccionar prendas únicas para tus mascotas."
-pubDate: 2026-07-14
+pubDate: 2026-07-15
 keyword: "moldes gratis para ropa de perros"
 cluster:
   - "patrones para ropa de mascotas"

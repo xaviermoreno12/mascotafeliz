@@ -1,7 +1,7 @@
 ---
 title: "Cómo cuidar un perro por primera vez: ¡Consejos prácticos!"
 description: "Aprendé cómo cuidar un perro por primera vez con consejos fáciles y efectivos para que tu amigo peludo sea feliz y saludable."
-pubDate: 2026-07-14
+pubDate: 2026-07-11
 keyword: "como cuidar un perro por primera vez"
 cluster:
   - "cuidado de perros principiantes"
@@ -57,7 +57,7 @@ Los perros necesitan moverse, y no, no vale solo con mirar a través de la venta
 
 ### 4. Cuidado y higiene
 
-Un perro limpio es un perro feliz. Así que no te olvides de cepillarlo regularmente, especialmente si tenés una raza de pelo largo. Y no, no es solo para que luzca bien, sino que también previene enredos y problemas de piel. Si querés aprender más sobre confeccionar ropa para tu mascota, podés ver [Cómo hacer ropa para perros paso a paso: ¡Confeccioná prendas únicas!](/blog/como-hacer-ropa-para-perros-paso-a-paso/).
+Un perro limpio es un perro feliz. Así que no te olvides de cepillarlo regularmente, especialmente si tenés una raza de pelo largo. Y no, no es solo para que luzca bien, sino que también previene enredos y problemas de piel. Si querés aprender más sobre confeccionar ropa para tu mascota, podés ver Cómo hacer ropa para perros paso a paso: ¡Confeccioná prendas únicas!.
 
 ### 5. Visitas al veterinario
 

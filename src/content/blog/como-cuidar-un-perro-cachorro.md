@@ -1,7 +1,7 @@
 ---
 title: "Cómo cuidar un perro cachorro: Tips infalibles"
 description: "Aprendé cómo cuidar un perro cachorro con consejos prácticos y efectivos. ¡Tu mascota te lo agradecerá!"
-pubDate: 2026-07-14
+pubDate: 2026-07-12
 keyword: "como cuidar un perro cachorro"
 cluster:
   - "cómo cuidar un cachorro"

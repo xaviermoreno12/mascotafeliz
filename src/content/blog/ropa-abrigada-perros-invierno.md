@@ -17,7 +17,7 @@ faqs:
   - q: "¿Con qué frecuencia debo ponerle ropa a mi perro?"
     a: "Depende del clima. En días fríos, siempre que salga, es bueno que use abrigo."
   - q: "¿Puedo hacer ropa para mi perro en casa?"
-    a: "¡Claro! Si te animás, podés seguir [Cómo hacer ropa para perros paso a paso: ¡Confeccioná prendas únicas!](/blog/como-hacer-ropa-para-perros-paso-a-paso/)"
+    a: "¡Claro! Si te animás, podés seguir Cómo hacer ropa para perros paso a paso: ¡Confeccioná prendas únicas!"
   - q: "¿La ropa para perros es cara?"
     a: "Hay opciones para todos los bolsillos. Si buscás bien, podés encontrar prendas económicas y de buena calidad."
   - q: "¿Qué debo considerar al comprar ropa para mi perro?"
@@ -88,7 +88,7 @@ Los suéteres y abrigos de forro polar son ideales, ya que son cálidos y ligero
 Depende del clima. En días fríos, siempre que salga, es bueno que use abrigo.  
 
 **3. ¿Puedo hacer ropa para mi perro en casa?**  
-¡Claro! Si te animás, podés seguir [Cómo hacer ropa para perros paso a paso: ¡Confeccioná prendas únicas!](/blog/como-hacer-ropa-para-perros-paso-a-paso/)
+¡Claro! Si te animás, podés seguir Cómo hacer ropa para perros paso a paso: ¡Confeccioná prendas únicas!
 
 **4. ¿La ropa para perros es cara?**  
 Hay opciones para todos los bolsillos. Si buscás bien, podés encontrar prendas económicas y de buena calidad.  
