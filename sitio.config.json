@@ -46,7 +46,8 @@
       "para_quien": "Amantes de las mascotas que quieren vestir a sus animales, o emprender vendiendo ropa para mascotas.",
       "destacado": true,
       "pagina_ventas": "https://hotmart.com/es/marketplace/productos/costura-canina-y-felina/N47582048Y?ref=E75016771N",
-      "tema": "Ropa y costura"
+      "tema": "Ropa y costura",
+      "cta_comprar": "Empezar a coser ya 🧵"
     },
     {
       "id": "salud-perro",
@@ -65,7 +66,8 @@
       ],
       "para_quien": "Dueños de perros que quieren mejorar la salud y el bienestar de su mascota.",
       "pagina_ventas": "https://hotmart.com/es/marketplace/productos/como-cuidar-la-salud-de-su-perro/C72389313M?ref=Y75019835V",
-      "tema": "Cuidado y salud"
+      "tema": "Cuidado y salud",
+      "cta_comprar": "Cuidar a mi perro ya 🐾"
     }
   ]
 }
