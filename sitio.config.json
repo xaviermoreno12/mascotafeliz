@@ -47,7 +47,12 @@
       "destacado": true,
       "pagina_ventas": "https://hotmart.com/es/marketplace/productos/costura-canina-y-felina/N47582048Y?ref=E75016771N",
       "tema": "Ropa y costura",
-      "cta_comprar": "Empezar a coser ya 🧵"
+      "cta_comprar": "Empezar a coser ya 🧵",
+      "lead_magnet": {
+        "titulo": "El molde base de ropa para perro: medidas por talle (S, M y L) y cómo trazarlo",
+        "gancho": "Las 3 medidas clave, la tabla de talles y cómo trazar el molde base",
+        "pdf": "/regalos/moldes-ropa-perro.pdf"
+      }
     },
     {
       "id": "salud-perro",
@@ -67,7 +72,12 @@
       "para_quien": "Dueños de perros que quieren mejorar la salud y el bienestar de su mascota.",
       "pagina_ventas": "https://hotmart.com/es/marketplace/productos/como-cuidar-la-salud-de-su-perro/C72389313M?ref=Y75019835V",
       "tema": "Cuidado y salud",
-      "cta_comprar": "Cuidar a mi perro ya 🐾"
+      "cta_comprar": "Cuidar a mi perro ya 🐾",
+      "lead_magnet": {
+        "titulo": "Chequeo mensual de tu perro en 10 puntos: detectá problemas antes de que sean caros",
+        "gancho": "La checklist de 10 puntos para revisar la salud de tu perro en casa",
+        "pdf": "/regalos/chequeo-mensual-perro.pdf"
+      }
     }
   ]
 }
