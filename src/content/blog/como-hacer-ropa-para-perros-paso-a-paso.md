@@ -104,4 +104,4 @@ A: ¡Sí! Si te gusta el proceso, podés considerar emprender un negocio vendien
 
 ## Cierre
 
-Hacer ropa para perros es una actividad divertida y creativa que no solo embellece a tu mascota, sino que también puede ser el comienzo de un nuevo emprendimiento. Si te entusiasma la idea de confeccionar prendas únicas y adaptadas a cada clima, te invito a explorar la **Costura Canina y Felina — MasterClass para confeccionar ropa y accesorios para perros y gatos**. Vas a aprender a manejar diferentes telas, crear patrones simples y a dar rienda suelta a tu creatividad. ¡Convertite en el diseñador de moda de tu mascota y descubrí un nuevo ingreso creando prendas únicas para peludos!
+Con dedicación y cariño, tu peludo lo va a agradecer. Esperamos que esta guía te sea útil: seguí explorando el blog para más consejos sobre mascotas.

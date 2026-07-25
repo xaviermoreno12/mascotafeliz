@@ -89,4 +89,4 @@ Es normal cometer errores cuando uno está aprendiendo. Aquí te dejo algunos de
 
 ## Cierre
 
-Con estos moldes gratis para ropa de perros, ya tenés todo lo que necesitás para empezar a vestir a tu mascota con estilo. Pero si realmente querés llevar tu habilidad de costura al siguiente nivel, te invito a conocer la **Costura Canina y Felina — MasterClass**. Ahí aprenderás a confeccionar prendas adaptadas a diferentes climas y ocasiones, manejando diferentes telas y máquinas de coser. No importa si nunca tocaste una máquina antes, ¡te aseguro que saldrás hecho un experto! Conviértete en el diseñador de moda de tu mascota y disfrutá de esta nueva aventura creativa.
+Con dedicación y cariño, tu peludo lo va a agradecer. Esperamos que esta guía te sea útil: seguí explorando el blog para más consejos sobre mascotas.

@@ -89,4 +89,4 @@ Ahora que tenés todo listo, es hora de ponerte manos a la obra. Aquí te dejo u
 
 Confeccionar ropa para perros a crochet para principiantes es una actividad divertida y gratificante que te permitirá no solo crear prendas únicas, sino también fortalecer el vínculo con tu mascota. Además, si te enamoraste de este hobby, ¡podés llevarlo al siguiente nivel!  
 
-¿Querés aprender más y convertirte en el diseñador de moda de tu mascota? Te invito a conocer **Costura Canina y Felina**, un MasterClass donde aprenderás a confeccionar ropa y accesorios adaptados a diferentes climas y ocasiones. No importa si nunca tocaste una máquina de coser, ¡acá te enseñamos todo! Aprendé a manejar diferentes telas, crear patrones sencillos y hasta acceder a actualizaciones constantes. Además, podrías encontrar una nueva oportunidad de negocio en el creciente mercado de la moda para mascotas. ¡Animate a dar el paso!
+Con dedicación y cariño, tu peludo lo va a agradecer. Esperamos que esta guía te sea útil: seguí explorando el blog para más consejos sobre mascotas.

@@ -101,4 +101,4 @@ Sí, siempre y cuando esté bien ajustada y no le limite el movimiento.
 
 ## Conclusión
 
-Ya lo sabés, la ropa abrigada para perros en invierno no es solo un capricho, es una necesidad para cuidar a tu peludo en los días fríos. Y si te apasiona la idea de confeccionar ropa a medida para tu mascota, no dudes en explorar la Costura Canina y Felina. Con esta MasterClass, aprenderás desde cero a hacer prendas y accesorios únicos para cada clima. ¡Conviértete en el diseñador de moda de tu mascota y hacé que cada salida sea un desfile de estilo!
+Con dedicación y cariño, tu peludo lo va a agradecer. Esperamos que esta guía te sea útil: seguí explorando el blog para más consejos sobre mascotas.

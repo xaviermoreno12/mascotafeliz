@@ -101,6 +101,6 @@ Podés empezar a entrenarlo desde que llega a casa, enfocándote en comandos bá
 
 ## Cierre: el camino hacia un perro feliz y saludable
 
-Cuidar a un perro cachorro no siempre es fácil, pero con estos consejos podés estar seguro de que le estás dando el mejor comienzo en la vida. Si querés profundizar en la alimentación, cuidados y entrenamiento para asegurar que tu perro viva sano, feliz y muchos años a tu lado, mirá la [Guía completa sobre alimentación, cuidados y entrenamiento de tu perro](#) que te puede ayudar a convertirte en el mejor dueño que pueda tener tu peludo.
+Con dedicación y cariño, tu peludo lo va a agradecer. Esperamos que esta guía te sea útil: seguí explorando el blog para más consejos sobre mascotas.
 
 Así que, ¡a disfrutar de esos momentos adorables con tu cachorro! Y recordá, cada ladrido es un paso más hacia una vida canina plena y feliz.
